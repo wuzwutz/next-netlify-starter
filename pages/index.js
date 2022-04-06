@@ -12,6 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="WUZWUTZ" />
+        <p>
+        </p>
         <a href="https://discord.gg/2XGkkQeCwK">
         <button>Join Discord</button>
         </a>
