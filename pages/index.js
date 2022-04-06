@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Weme to my app!" />
+        <Header title="WUZWUTZ" />
         <p className="description">
          test
         </p>
