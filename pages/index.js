@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Weme to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         test
         </p>
       </main>
 
