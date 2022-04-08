@@ -13,7 +13,11 @@ export default function Home() {
       <main>
         <Header title="WUZWUTZ" />
         <p>
+          Java 1.18.2 Minecraft Server
         </p>
+          <code>
+            mc.wuzwutz.com
+          </code>
         <a href="https://discord.gg/2XGkkQeCwK">
         <button>Join Discord</button>
         </a>
